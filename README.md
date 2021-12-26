@@ -1,3 +1,2 @@
-# express-typescript-boiler-plate
-
-Boiler plate of express app with typescript
+# express-typescript-boiler-plate-class-style
+Express app boiler plate using typescript

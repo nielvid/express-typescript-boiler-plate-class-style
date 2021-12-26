@@ -1,3 +1,4 @@
+import { Container } from 'typedi';
 import { App } from "./app";
 import { routes } from "./routes"; 
 
